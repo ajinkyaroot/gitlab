@@ -1,22 +1,22 @@
 {
-  Transaction : {
-    id : "122",
-    name : "xyz",
-    status : "approved"
+  "Transaction" : {
+    "id" : "122",
+    "name" : "xyz",
+    "status" : "approved"
   },
-  Exception : {
-    id : "12",
-    name : "xyza",
-    status : "approved"
+  "Exception" : {
+    "id" : "12",
+    "name" : "xyza",
+    "status" : "approved"
   },
-  Rebate : {
-    id : "111",
-    name : "abxyz",
-    status : "approved"
+  "Rebate" : {
+    "id" : "111",
+    "name" : "abxyz",
+    "status" : "approved"
   },
-  Main : {
-    id : "112",
-    name : "abc",
-    status : "approved"
+  "Main" : {
+    "id" : "112",
+    "name" : "abc",
+    "status" : "approved"
   }
 }
